@@ -1,0 +1,16 @@
+﻿Linear regression attempts to model the relationship between two variables by fitting a linear equation to observed data. Provides continuous output. 
+
+
+Analogy:
+Drug/Alcohol abuse and College dropout data
+
+
+
+
+Logistic regression is a statistical method for predicting binary classes. Provides constant output. 
+
+
+
+
+Analogy:
+Used to determine if a customer will buy a product, does a patient have cancer?
